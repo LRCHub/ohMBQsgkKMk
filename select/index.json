@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "La Roja",
+  "base_artist": "Hakos Baelz",
+  "createdAt": "2025-12-13T14:08:04.551160Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LA ROJA (CANCIÓN MUNDIAL)",
+      "artist": "Chema Rivas",
+      "has_synced": false,
+      "path": "select/01_LA_ROJA_(CANCIÓN_MUNDIAL)_Chema_Rivas.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "La Roja",
+      "artist": "Hakos Baelz",
+      "has_synced": false,
+      "path": "select/02_La_Roja_Hakos_Baelz.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "La Roja (feat. Mister V)",
+      "artist": "AmineMaTue",
+      "has_synced": true,
+      "path": "select/03_La_Roja_(feat._Mister_V)_AmineMaTue.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "La roja baila (Himno oficial de la selección española)",
+      "artist": "Sergio Ramos",
+      "has_synced": true,
+      "path": "select/04_La_roja_baila_(Himno_oficial_de_la_selección_española)_Sergio_Ramos.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "La Roja",
+      "artist": "AmineMaTue",
+      "has_synced": true,
+      "path": "select/05_La_Roja_AmineMaTue.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "La roja baila (Himno oficial de la selección española)",
+      "artist": "RedOne",
+      "has_synced": true,
+      "path": "select/06_La_roja_baila_(Himno_oficial_de_la_selección_española)_RedOne.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "La roja baila (Himno oficial de la selección española)",
+      "artist": "Sergio Ramos, Niña Pastori & RedOne",
+      "has_synced": true,
+      "path": "select/07_La_roja_baila_(Himno_oficial_de_la_selección_española)_Sergio_Ramos,_Niña_Pastori_&_RedOne.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "La roja baila (Himno oficial de la selección española)",
+      "artist": "Sergio Ramos",
+      "has_synced": true,
+      "path": "select/08_La_roja_baila_(Himno_oficial_de_la_selección_española)_Sergio_Ramos.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "La roja baila (Himno oficial de la selección española)",
+      "artist": "Niña Pastori",
+      "has_synced": true,
+      "path": "select/09_La_roja_baila_(Himno_oficial_de_la_selección_española)_Niña_Pastori.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "La roja baila (Himno oficial de la selección española)",
+      "artist": "Sergio Ramos • Niña Pastori • RedOne",
+      "has_synced": true,
+      "path": "select/10_La_roja_baila_(Himno_oficial_de_la_selección_española)_Sergio_Ramos_•_Niña_Pastori_•_RedOne.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "La roja baila - Himno oficial de la selección española",
+      "artist": "Sergio Ramos",
+      "has_synced": true,
+      "path": "select/11_La_roja_baila_-_Himno_oficial_de_la_selección_española_Sergio_Ramos.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Chema Rivas - LA ROJA (CANCIÓN MUNDIAL) (Video Oficial)",
+      "artist": "Chema Rivas",
+      "has_synced": false,
+      "path": "select/12_Chema_Rivas_-_LA_ROJA_(CANCIÓN_MUNDIAL)_(Video_Oficial)_Chema_Rivas.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Somos La Roja - Homenaje Selección Española (Canción Mundial 2010 Sudáfrica Mix)",
+      "artist": "Hooks & Lyrics",
+      "has_synced": false,
+      "path": "select/13_Somos_La_Roja_-_Homenaje_Selección_Española_(Canción_Mundial_2010_Sudáfrica_Mix)_Hooks_&_Lyrics.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "La Roja Baila (Himno Oficial de la Selección Española)",
+      "artist": "RedOne",
+      "has_synced": true,
+      "path": "select/14_La_Roja_Baila_(Himno_Oficial_de_la_Selección_Española)_RedOne.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "La Roja",
+      "artist": "AmineMaTue, Mister V",
+      "has_synced": true,
+      "path": "select/15_La_Roja_AmineMaTue,_Mister_V.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Chile La Roja",
+      "artist": "Manwomanchild",
+      "has_synced": false,
+      "path": "select/16_Chile_La_Roja_Manwomanchild.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "La Roja",
+      "artist": "AmineMaTue",
+      "has_synced": true,
+      "path": "select/17_La_Roja_AmineMaTue.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "La Roja",
+      "artist": "Hakos Baelz",
+      "has_synced": true,
+      "path": "select/18_La_Roja_Hakos_Baelz.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "La Roja",
+      "artist": "Hakos Baelz",
+      "has_synced": false,
+      "path": "select/pl_01_La_Roja_Hakos_Baelz.txt"
+    }
+  ]
+}
