@@ -1,0 +1,66 @@
+# Hakos Baelz – La Roja
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Holding my breath as I'm counting down from three
+Asking myself am I where I want to be?
+Drowning in lights at the touch of a celebrity
+But there's something inside and it's weighing down on me
+
+I see all the things that I used to dream
+And now they're within my reach
+Some say thats a good thing
+Depends on what you're wishing
+The further I go it's not what it seems
+The truth that they often preach
+But my heart is slightly shifting
+Everytime I hear them clapping
+
+If I take it fast, will you learn to take it slow?
+Cuz the world don't stop, it only wants more and more
+
+La-la-la-la-la-la, la-la-la-la-la-la (Straight into the ring)
+La-la-la-la-la-la, la-la-la-la-la-la (My dreams are what I breath)
+La-la-la-la-la-la, la-la-la-la-la-la (At times when I see red)
+La-la-la-la-la-la, la-la-la-la-la-la (I break promises I've kept)
+
+Holding on tight to the things that brought me here
+Trying to let go as I face up to my fears
+I'm right on the edge like a swinging chandelier
+But it all melts away when I hear the people cheer
+
+I feel all the things that I used to feel
+But now they begun to fade
+Some say thats a bad thing
+Depends on where you're going
+The harder I try, the rules don't apply
+There's no time to be afraid
+Now my heart has started raging
+And the fire will be blazing
+
+If I take it fast, will you learn to take it slow?
+Cuz if we don't stop, we'll only want more and more
+
+La-la-la-la-la-la, la-la-la-la-la-la (Straight into the ring)
+La-la-la-la-la-la, la-la-la-la-la-la (My dreams are what I breath)
+La-la-la-la-la-la, la-la-la-la-la-la (At times when I see red)
+La-la-la-la-la-la, la-la-la-la-la-la (I break promises I've kept)
+
+The only thing they want from me
+Is repetition and some novelty (Novelty)
+The only thing they ask of me
+Is to find a new reality (Reality)
+They dangle the prize, right in front of my eyes
+And as I try to cut the tie, surprise, surprise
+They lie, they lie and they hypnotize
+But there are things that I won't sacrifice
+
+If I take it fast, will you learn to take it slow?
+Cuz if I don't stop, then I'll only want more and more
+
+La-la-la-la-la-la, la-la-la-la-la-la (Straight into the ring)
+La-la-la-la-la-la, la-la-la-la-la-la (My dreams are what I breath)
+La-la-la-la-la-la, la-la-la-la-la-la (At times when I see red)
+La-la-la-la-la-la, la-la-la-la-la-la (I break promises I've kept)
+```
